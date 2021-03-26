@@ -49,11 +49,12 @@ export default function Header() {
               className="inline-block"
             />
           </h1>
-          <ScrollLink to="stack" smooth={true}>
+          
             <button className=" animate-float bg-indigo-500 px-10 py-3 text-xl uppercase mt-10 rounded-lg">
-              {content.header.btnText}
+              <a href="mailto:mohitpatel040102@gmail.com" className="text-white">{content.header.btnText}</a>
+              
+              
             </button>
-          </ScrollLink>
         </div>
       </div>
     </div>

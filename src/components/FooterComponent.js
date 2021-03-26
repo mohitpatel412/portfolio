@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <div className="text-gray-600 body-font bg-black" style={{
-              background: '#091c29'}} >
+              background: '#000000'}} >
                 <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col justify-center">
                 <span className="inline-flex sm:mt-0 mt-4 justify-center sm:justify-start">
       <a target="_blank" title="instagram" rel="noopener noreferrer" href="https://www.instagram.com/" className="text-green-400 ml-3 hover:text-pink-500">
@@ -43,7 +43,7 @@ class Footer extends Component {
         </div>
         <div>
     <p className="text-md text-green-400 sm:py-2 sm:mt-0 mt-4">© 2021 Copyright —
-      <a href="https://noidea.com/" className="text-green-400 ml-1" rel="noopener noreferrer" target="_blank">Respective Owner</a>
+      <a href="https://noidea.com/" className="text-green-400 ml-1" rel="noopener noreferrer" target="_blank">Mohit Patel</a>
     </p>
     </div>
     </div>

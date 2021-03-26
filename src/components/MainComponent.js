@@ -6,6 +6,7 @@ import Skill from './SkillComponent';
 import Navbar from './Header1Component';
 import Dropdown  from './NavbarDropdown';
 import Hero from './HeroCompoent';
+import Contact from './ContactComponent';
 
 function Main(){
 
@@ -25,6 +26,7 @@ function Main(){
                 <About />
                 <Skill />
                 <Experience />
+                <Contact />
                 <Footer />
             </div>
         )
