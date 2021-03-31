@@ -33,7 +33,7 @@ const Navbar = ({toggle}) => {
         <Link to='/menu' className='p-4 text-green-400 hover:no-underline hover:text-yellow-500'>
           About
         </Link>
-        <Link to='/about' className='p-4 text-green-400 hover:no-underline hover:text-yellow-500'>
+        <Link to='#skill' className='p-4 text-green-400 hover:no-underline hover:text-yellow-500'>
           Skills
         </Link>
         <Link to='/about' className='p-4 text-green-400 hover:no-underline hover:text-yellow-500'>
