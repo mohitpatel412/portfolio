@@ -4,11 +4,12 @@ const Footer = () => {
   return (
     <div
       className="text-gray-600 body-font bg-black"
+      id="footer"
       style={{
         background: "#000000",
       }}
     >
-      <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col justify-center">
+      <div className="px-5 py-8 mx-auto flex items-center sm:flex-row flex-col justify-center">
         <span className="inline-flex sm:mt-0 mt-4 justify-center sm:justify-start">
           <a
             target="_blank"

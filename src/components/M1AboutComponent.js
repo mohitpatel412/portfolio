@@ -4,6 +4,7 @@ const About = () => {
   return (
     <section
       className="text-gray-400 body-font bg-black"
+      id="about"
       style={{
         background: "#091c29",
       }}

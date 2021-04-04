@@ -4,6 +4,7 @@ function Contact() {
   return (
     <section
       className="text-gray-400 body-font relative"
+      id="contact"
       style={{
         background: "#091c29",
       }}

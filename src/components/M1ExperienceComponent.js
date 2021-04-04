@@ -19,12 +19,12 @@ const Experience = () => {
       <div className="container px-5 py-24 mx-auto flex flex-wrap">
         <M1Experience
           org="IoT Lab KIIT"
-          role="Web Developer"
+          role="Trainee Web Developer"
           date="February,2021 - Present"
         />
         <M1Experience
           org="IoT Lab KIIT"
-          role="Web Developer"
+          role="Trainee Web Developer"
           date="February,2021 - Present"
         />
       </div>
