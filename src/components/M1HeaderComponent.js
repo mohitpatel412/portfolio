@@ -42,7 +42,7 @@ const Navbar = ({ toggle }) => {
           )}
         </svg>
       </button>
-      <div className="pr-8 md:block  hidden ">
+      <div className="pr-8 md:block hidden">
         <a
           href="/"
           className="p-4 text-green-400 hover:no-underline hover:text-yellow-500"
