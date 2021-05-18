@@ -15,7 +15,7 @@ const Skill = () => {
       <div className="flex mt-6 justify-center">
         <div className="w-16 h-1 rounded-full bg-indigo-500 inline-flex mb-4"></div>
       </div>
-      <div className="flex flex-wrap justify-center">
+      <div className="flex flex-wrap justify-start">
         <M1Skill
           header="Problem Solving & DSA"
           description="5⭐ Problem Solving at Hackerrank. 2⭐ at Codechef."

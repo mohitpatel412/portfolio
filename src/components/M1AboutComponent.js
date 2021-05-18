@@ -41,9 +41,8 @@ const About = () => {
               <p className="leading-relaxed text-lg mb-4">
                 I am a 3rd year B.Tech undergraduate, I want to pursue my career
                 in Web Development. I'm learning MERN stack. I am a technology
-                enthusiast , obviously not the most skilled one but skilled
-                enough to learn and implement things for the benefit of your
-                company.{" "}
+                enthusiast , maybe not the most skilled one but skilled enough
+                to learn and implement things for the benefit of your company.{" "}
               </p>
               <a className="text-indigo-500 inline-flex items-center" href="/">
                 <button className="bg-white text-black px-4 py-2 rounded font-bold">
