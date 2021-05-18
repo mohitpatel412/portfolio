@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 const Footer = () => {
   return (
@@ -15,7 +15,7 @@ const Footer = () => {
             target="_blank"
             title="instagram"
             rel="noopener noreferrer"
-            href="https://www.instagram.com/"
+            href="https://www.instagram.com/_mohit.04.patel_/"
             className="text-green-400 ml-3 hover:text-pink-500"
           >
             <svg
@@ -35,7 +35,7 @@ const Footer = () => {
             target="_blank"
             title="linkedin"
             rel="noopener noreferrer"
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/mohit-patel-a379861a1/"
             className="text-green-400 ml-3 hover:text-blue-600"
           >
             <svg
@@ -57,7 +57,7 @@ const Footer = () => {
           <a
             target="_blank"
             title="mail"
-            href="mailto:someone@gmail.com"
+            href="mailto:mohitpatel040102@gmail.com"
             rel="noopener noreferrer"
             className="text-green-400 ml-3 hover:text-red-600"
           >
@@ -74,7 +74,7 @@ const Footer = () => {
           <a
             target="_blank"
             title="mail"
-            href="https://github.com"
+            href="https://github.com/mohitpatel412"
             rel="noopener noreferrer"
             className="text-green-400 ml-3 mr-3 hover:text-white"
           >
@@ -98,25 +98,25 @@ const Footer = () => {
           Home
         </a>
         <a
-          href="/"
+          href="#about"
           className="mx-3 text-green-400 hover:text-yellow-600 hover:no-underline"
         >
           About
         </a>
         <a
-          href="/"
+          href="#skill"
           className="mx-3 text-green-400 hover:text-yellow-600 hover:no-underline"
         >
           Skills
         </a>
         <a
-          href="/"
+          href="#experience"
           className="mx-3 text-green-400 hover:text-yellow-600 hover:no-underline"
         >
           Experience
         </a>
         <a
-          href="/"
+          href="#contact"
           className="mx-3 text-green-400 hover:text-yellow-600 hover:no-underline"
         >
           Contact

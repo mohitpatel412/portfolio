@@ -46,7 +46,7 @@ const About = () => {
               </p>
               <a className="text-indigo-500 inline-flex items-center" href="/">
                 <button className="bg-white text-black px-4 py-2 rounded font-bold">
-                  <a href="./resume/MohitResume.pdf" download="MohitResume.pdf">
+                  <a href="/resume/MyResume.pdf" download="MyResume.pdf">
                     RESUME
                   </a>
                 </button>
