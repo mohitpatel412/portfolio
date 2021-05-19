@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { feedback } from "../api";
 
 function Contact() {
   const [data, setData] = useState({
@@ -16,18 +17,15 @@ function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch(
-        "https://v1.nocodeapi.com/mohitpatel412/google_sheets/dMrlCkpJCGoZahju?tabId=feedback",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify([
-            [name, email, message, new Date().toLocaleString()],
-          ]),
-        }
-      );
+      const response = await fetch(feedback, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify([
+          [name, email, message, new Date().toLocaleString()],
+        ]),
+      });
       await response.json();
       setData({ ...data, name: "", email: "", message: "" });
     } catch (err) {
