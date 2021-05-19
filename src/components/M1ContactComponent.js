@@ -60,7 +60,7 @@ function Contact() {
           <div className="flex flex-wrap -m-2">
             <form onSubmit={handleSubmit}>
               <div className="flex flex-wrap">
-                <div className="mx-2">
+                <div className="md:mx-2">
                   <label
                     htmlFor="name"
                     className="leading-7 text-sm text-gray-400"
@@ -76,7 +76,7 @@ function Contact() {
                     className="w-full bg-white bg-opacity-50 rounded border border-gray-300 focus:border-indigo-400 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                   />
                 </div>
-                <div className="mx-2">
+                <div className="md:mx-2">
                   <label
                     htmlFor="email"
                     className="leading-7 text-sm text-gray-400"
