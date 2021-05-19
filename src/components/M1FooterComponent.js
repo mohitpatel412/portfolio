@@ -126,7 +126,7 @@ const Footer = () => {
         <p className="text-md text-green-400 sm:py-2 sm:mt-0 mt-4">
           © 2021 Copyright —
           <a
-            href="https://noidea.com/"
+            href="mailto:mohitpatel040102@gmail.com"
             className="text-green-400 ml-1"
             rel="noopener noreferrer"
             target="_blank"

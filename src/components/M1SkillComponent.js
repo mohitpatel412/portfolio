@@ -23,12 +23,12 @@ const Skill = () => {
         <M1Skill
           header="WebDesign"
           description="Intermediate proficiency in HTML 5, CSS, JavaScript, Bootstrap, ReactJS, TailwindCSS. 
-                Ability to structure all the files in a clean way. "
+                      Ability to identify web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React concepts."
         />
         <M1Skill
           header="Development Backend"
           description="Intermediate proficiency in Node.js, Express.js and MongoDB. 
-                      Ability to handle API's and use JSON Document."
+                      Ability to handle API integration and render it to the frontend part."
         />
       </div>
     </section>

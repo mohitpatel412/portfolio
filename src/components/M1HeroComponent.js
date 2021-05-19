@@ -26,6 +26,7 @@ export default function Header() {
             src={content.header.back}
             effect="blur"
             placeholderSrc={process.env.PUBLIC_URL + "/logo512.png"}
+            className="rounded-lg"
           />
         </div>
         <div className="text-white font-dosis text-center md:text-left">

@@ -21,11 +21,13 @@ const Experience = () => {
           org="IoT Lab KIIT"
           role="Trainee Web Developer"
           date="February,2021 - Present"
+          num={1}
         />
         <M1Experience
           org="KIIT Robotics Society"
           role="Web Developer"
           date="September,2020 - Present"
+          num={2}
         />
       </div>
     </section>
