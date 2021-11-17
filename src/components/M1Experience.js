@@ -24,11 +24,11 @@ function M1Experience({ org, role, date, num }) {
           </svg>
         </div>
         <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 className="font-medium title-font text-gray-500 mb-1 text-xl">
+          <h2 className="font-medium title-font text-gray-200 mb-1 text-xl">
             {org}
           </h2>
-          <p className="leading-relaxed">{role}</p>
-          <p className="leading-relaxed">{date}</p>
+          <p className="leading-relaxed text-gray-200">{role}</p>
+          <p className="leading-relaxed text-gray-200">{date}</p>
         </div>
       </div>
     </div>

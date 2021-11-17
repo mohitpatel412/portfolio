@@ -21,7 +21,7 @@ const About = () => {
             <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
               <div className="inline-flex items-center justify-center  text-gray-400">
                 <img
-                  src="/images/mohit1.jpg"
+                  src="/images/mohit3.jpg"
                   alt="Mohit Patel"
                   className="h-48 w-52 rounded-md"
                 />
@@ -37,7 +37,7 @@ const About = () => {
               <p className="leading-relaxed text-lg mb-4"></p>
               <p className="leading-relaxed text-lg mb-4">
                 I am a 3rd year B.Tech undergraduate, I want to pursue my career
-                in Web Development. I'm learning MERN stack. I am a technology
+                in Web Development. I'm learning MERN and MENN stack. I am a technology
                 enthusiast , maybe not the most skilled one but skilled enough
                 to learn and implement things for the benefit of your company.{" "}
               </p>

@@ -29,6 +29,18 @@ const Experience = () => {
           date="September,2020 - Present"
           num={2}
         />
+        <M1Experience
+          org="EnR Consultancy Services"
+          role="Full Stack Developer"
+          date="June,2021 - September,2021"
+          num={3}
+        />
+        <M1Experience
+          org="Mauka (Earlier Pracify)"
+          role="ReactJS Developer"
+          date="July,2021 - August,2021"
+          num={4}
+        />
       </div>
     </section>
   );

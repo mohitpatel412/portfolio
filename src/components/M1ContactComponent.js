@@ -60,7 +60,7 @@ function Contact() {
           <div className="flex flex-wrap -m-2">
             <form onSubmit={handleSubmit}>
               <div className="flex flex-wrap">
-                <div className="md:mx-2">
+                <div className="">
                   <label
                     htmlFor="name"
                     className="leading-7 text-sm text-gray-400"

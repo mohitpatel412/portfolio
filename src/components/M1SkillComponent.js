@@ -9,7 +9,6 @@ const Skill = () => {
       style={{
         background: "#091c29",
       }}
-      id="skill"
     >
       <h1 className="text-xxl font-bold justify-center">Skills</h1>
       <div className="flex mt-6 justify-center">
@@ -22,8 +21,8 @@ const Skill = () => {
         />
         <M1Skill
           header="WebDesign"
-          description="Intermediate proficiency in HTML 5, CSS, JavaScript, Bootstrap, ReactJS, TailwindCSS. 
-                      Ability to identify web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React concepts."
+          description="Intermediate proficiency in HTML 5, CSS, JavaScript, Bootstrap, ReactJS, TailwindCSS, NextJS. 
+                      Ability to identify web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React JS and Next JS concepts."
         />
         <M1Skill
           header="Development Backend"
