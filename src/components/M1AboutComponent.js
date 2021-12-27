@@ -37,12 +37,13 @@ const About = () => {
               <p className="leading-relaxed text-lg mb-4"></p>
               <p className="leading-relaxed text-lg mb-4">
                 I am a 3rd year B.Tech undergraduate, I want to pursue my career
-                in Web Development. I'm learning MERN and MENN stack. I am a technology
-                enthusiast , maybe not the most skilled one but skilled enough
-                to learn and implement things for the benefit of your company.{" "}
+                in Web Development. I'm learning MERN and MENN stack. I am a
+                technology enthusiast , maybe not the most skilled one but
+                skilled enough to learn and implement things for the benefit of
+                your company.{" "}
               </p>
               <div className="text-indigo-500 inline-flex items-center">
-                <a href="/resume/MyResume.pdf" download="MyResume.pdf">
+                <a href="/resume/Resume.pdf" download="Resume.pdf">
                   <button className="bg-white text-black px-4 py-2 rounded font-bold">
                     RESUME
                   </button>
